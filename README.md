@@ -2,6 +2,6 @@
 
 | Training | Workshops  | Templates  |
 |:----:|:---:|:--:|
-|   |   |   |
+|   |   | [pkgdownTemplate](https://github.com/nmfs-openscapes/pkgdownTemplate)  |
 |   |   |   |
 |   |   |   |
