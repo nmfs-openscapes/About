@@ -2,6 +2,6 @@
 
 | Demos | Tutorials  | Templates  |
 |:----:|:---:|:--:|
-|   |   | [pkgdownTemplate](https://github.com/nmfs-openscapes/pkgdownTemplate)  |
+| [Google Drive w R](https://github.com/nmfs-openscapes/GoogleDrive1) |   | [pkgdownTemplate](https://github.com/nmfs-openscapes/pkgdownTemplate)  |
 |   |   |   |
 |   |   |   |
