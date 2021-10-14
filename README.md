@@ -1,6 +1,6 @@
 # NMFS Openscapes Repos
 
-| Training | Workshops  | Templates  |
+| Demos | Tutorials  | Templates  |
 |:----:|:---:|:--:|
 |   |   | [pkgdownTemplate](https://github.com/nmfs-openscapes/pkgdownTemplate)  |
 |   |   |   |
