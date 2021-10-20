@@ -1,7 +1,9 @@
 # NMFS Openscapes Repos
 
+See [Training](https://nmfs-openscapes.github.io/Training/) for links to training resources across NMFS. NMFS Openscapes has mainly has repos associated with our events.
+
 | Demos | Tutorials  | Templates  |
 |:----:|:---:|:--:|
 | [Google Drive w R](https://github.com/nmfs-openscapes/GoogleDrive1) |   | [pkgdownTemplate](https://github.com/nmfs-openscapes/pkgdownTemplate)  |
 | [Simple NOAA branded landing page](https://github.com/nmfs-openscapes/NOAA-branded-simple)  |   |   |
-|   |   |   |
+| [template_website_cv](https://github.com/nmfs-openscapes/template_website_cv) |   |   |
