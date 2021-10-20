@@ -5,5 +5,5 @@ See [Training](https://nmfs-openscapes.github.io/Training/) for links to trainin
 | Demos | Tutorials  | Templates  |
 |:----:|:---:|:--:|
 | [Google Drive w R](https://github.com/nmfs-openscapes/GoogleDrive1) |   | [NMFS pkgdownTemplate](https://github.com/nmfs-openscapes/pkgdownTemplate)  |
-| [Simple NOAA branded landing page](https://github.com/nmfs-openscapes/NOAA-branded-simple)  |   |   |
-| [template_website_cv](https://github.com/nmfs-openscapes/template_website_cv) |   |  [NMFS shinyTemplate](https://github.com/nmfs-openscapes/template_nfms_shiny) |
+| [Simple NOAA branded landing page](https://github.com/nmfs-openscapes/NOAA-branded-simple)  |   | [NMFS shinyTemplate](https://github.com/nmfs-openscapes/template_nfms_shiny)  |
+| [template_website_cv](https://github.com/nmfs-openscapes/template_website_cv) |   |   |
