@@ -1,6 +1,6 @@
 # NMFS Openscapes Repos
 
-See [NMFS R UG webpage](https://nmfs-openscapes.github.io/NMFS R UG/) for links to training resources across NMFS. NMFS Openscapes mainly has repos associated with our events.
+See [NMFS R UG webpage](https://nmfs-openscapes.github.io/NMFS-R-UG) for links to training resources across NMFS. NMFS Openscapes mainly has repos associated with our events.
 
 | Demos | Tutorials  | Templates  |
 |:----:|:---:|:--:|
